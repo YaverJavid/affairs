@@ -1,0 +1,21 @@
+@import url("https://use.typekit.net/asy4zso.css");
+
+body {
+    font-size: 15pt;
+    
+    background: black;
+    color: white
+}
+
+h1 {
+    background: black;
+    color: white;
+    font-family: "blackoak-std", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+a{
+    color: white;
+}
